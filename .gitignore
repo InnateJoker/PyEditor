@@ -1,0 +1,5 @@
+.vscode
+build
+dist
+*.spec
+temp_code.py
